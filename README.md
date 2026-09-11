@@ -61,3 +61,11 @@ The dashboard helps identify:
 
 This project demonstrates how Excel can be used to transform social media data into a structured and interactive analytics dashboard. It strengthened my practical skills in **data analysis, visualization, and dashboard development**.
 
+## Steps
+
+1.  Data Cleaning - Removing null values and duplicate values
+2.  creating KPIs cards using Pivot table 
+3.  Creating Visualization chart - bar chart, column chart, line chart, pie chart.
+4.  Creating slices and connecting to the pivot chart
+5.  Creating Dashbord
+
