@@ -1,8 +1,6 @@
-# Excel_Instagram-Engagement-Analytics-Dashboard
+# Instagram-Engagement-Analytics-Dashboard using Excel
 
 <img width="707" height="362" alt="image" src="https://github.com/user-attachments/assets/60c5c78f-182a-4fea-89d6-052090836aaf" />
-
-# Instagram Engagement Analytics Dashboard
 
 ## Project Overview
 
@@ -63,11 +61,3 @@ The dashboard helps identify:
 
 This project demonstrates how Excel can be used to transform social media data into a structured and interactive analytics dashboard. It strengthened my practical skills in **data analysis, visualization, and dashboard development**.
 
-## Repository Structure
-
-```text
-Instagram-Engagement-Analytics/
-│
-├── Instagram Analytics.xlsx
-├── Dashboard.png
-└── README.md
